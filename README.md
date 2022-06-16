@@ -12,24 +12,24 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 
  ## Step1:
  Start the Quartus II Programmer.
- ![output](?raw=true)
+ ![output](https://github.com/RuchithaReddy28/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/op1.png?raw=true)
  
  ## Step2:
  Click Add File and select the path to the desired .sof.
- ![output](?raw=true)
+ ![output](https://github.com/RuchithaReddy28/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/op2.png?raw=true)
  
   ## Step3:
  Turn on the Program/Configure option for the added file.
- ![output](?raw=true)
+ ![output](https://github.com/RuchithaReddy28/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/op3.png?raw=true)
  
  ## Step4:
  Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
- ![output](?raw=true)
- ![output](?raw=true)
- ![output](?raw=true)
+ ![output](https://github.com/RuchithaReddy28/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/op4.png?raw=true)
+ ![output](https://github.com/RuchithaReddy28/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/op5.png?raw=true)
+ ![output](https://github.com/RuchithaReddy28/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/op6.png?raw=true)
   
   ## Output:
-  ![output](?raw=true)
+  ![output](https://github.com/RuchithaReddy28/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/op7.png?raw=true)
   
   ## Result:
   The standard procedure to interface an FPGA board and flashing method using usb blaster has been understand.
